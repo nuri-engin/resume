@@ -2,8 +2,8 @@
 > Please contact via e-mail for detailed CV and interview requests.
 
 - Antalya / Turkey - [nuridesengin[at]gmail.com](mailto:nuridesengin[at]gmail.com)
-- [Resume](https://nuri-engin.github.io/resume/) | [LinkedIn](https://www.linkedin.com/in/nurullahengin/) | [GitHub](https://github.com/nuri-engin) | [Twitter](https://twitter.com/uzakkultur) | [Blog](http://uzakkultur.blogspot.com) | [Skype](nuridesengin) 
-- **Sex**: Male | **Date of birth**: 08/11/1988
+- [Resume](https://nuri-engin.github.io/resume/) / [LinkedIn](https://www.linkedin.com/in/nurullahengin/) / [GitHub](https://github.com/nuri-engin) / [Twitter](https://twitter.com/uzakkultur) / [Blog](http://uzakkultur.blogspot.com) / [Skype](nuridesengin) 
+- **Sex**: Male / **Date of birth**: 08.11.1988
 - Languages: Kurdish _(Mother tongue)_, Turkish _(fluent)_, English _(fluent)_
 
 ## Work Experience
