@@ -1,6 +1,5 @@
 ## Personal Information
 > Please contact via e-mail for detailed CV and interview requests. [Get Printable version](https://drive.google.com/file/d/1g5DZwCJOWImNtnyn9ySI1EjjdR374DA9/view?usp=sharing)
-
 > [Resume](https://nuri-engin.github.io/resume/) / [LinkedIn](https://www.linkedin.com/in/nurullahengin/) / [GitHub](https://github.com/nuri-engin) / [Twitter](https://twitter.com/uzakkultur) / [Last.fm](https://www.last.fm/user/uzakkultur) / [Blog](http://uzakkultur.blogspot.com) / [Skype](nuridesengin) 
 
 - Antalya, Turkey - [nuridesengin [at] gmail.com](mailto:nuridesengin@gmail.com)
@@ -15,7 +14,7 @@
 >
 > The goal of being full-stack, teach project management is the most important key. Organizing and planing the app before any code, using a proper tool to manage the process is necessary from any small or large scale applications. Still keep working to increase Backend skills in a more advanced approach.
 
-- **Role**: Full Stack Developer
+- **Role**: Full Stack Developer _[with ongoing backend skills]_
 - **Tech stack**:
     - Team: Mentoring and leading developers, applying technical solutions to business needs. 
     - Application: Enterprise level & Data Intensive application development, SPA Development.  
