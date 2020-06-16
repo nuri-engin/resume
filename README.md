@@ -1,5 +1,6 @@
 ## Personal Information
 > Please contact via e-mail for detailed CV and interview requests. [Get Printable version](https://drive.google.com/file/d/1g5DZwCJOWImNtnyn9ySI1EjjdR374DA9/view?usp=sharing)
+>
 > [Resume](https://nuri-engin.github.io/resume/) / [LinkedIn](https://www.linkedin.com/in/nurullahengin/) / [GitHub](https://github.com/nuri-engin) / [Twitter](https://twitter.com/uzakkultur) / [Last.fm](https://www.last.fm/user/uzakkultur) / [Blog](http://uzakkultur.blogspot.com) / [Skype](nuridesengin) 
 
 - Antalya, Turkey - [nuridesengin [at] gmail.com](mailto:nuridesengin@gmail.com)
