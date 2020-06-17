@@ -1,5 +1,5 @@
 ## Personal Information
-> Please contact via e-mail for the interview requests. [Get more detailed as PDF / Printable version](https://drive.google.com/file/d/1XBfeFQrG6ABF76Fck1VC9Zh4R5SM4HcH/view?usp=sharing)
+> Please contact via e-mail for the interview requests. [Get more detailed version as PDF / Printable](https://drive.google.com/file/d/1KLRBzz2JP5flsrRLFgXnO3uGaH0LHYqV/view?usp=sharing)
 >
 > [Resume](https://nuri-engin.github.io/resume/) / [LinkedIn](https://www.linkedin.com/in/nurullahengin/) / [GitHub](https://github.com/nuri-engin) / [Twitter](https://twitter.com/uzakkultur) / [Last.fm](https://www.last.fm/user/uzakkultur) / [Blog](http://uzakkultur.blogspot.com) / [Skype](nuridesengin) 
 
@@ -20,15 +20,14 @@
 - **Role**: Front End Developer _[with ongoing Full Stack skills]_
 - **Tech stack**:
     - Team: Mentoring and leading developers, applying technical solutions to business needs. 
-    - Application: Enterprise level & Data Intensive application development, SPA Development.  
+    - Application: Enterprise level & Data Intensive application development, SPA Development. Technical and user-friendly application documentation. 
     - Engineering: OOP, Data Structures & Algorithms. SQL & NoSQL database. GIT and code flow. 
     - Back End: API gateway, REST API, JSON Web Token _(beginner)_.
     - Front End: 
         - ES6, NodeJS, MERN stack, MongoDB & NoSQL, Express, HTML5, CSS3 (Preprocessor SASS), Material Design, Bootstrap.
         - FE Frameworks: React, React Native (hobby), Angular (hobby), VueJS (hobby).
-    - Testing: Jasmine, BDD, Selenium.  
-    - Tools: CI (Jenkins, Travis CI), Package managers (npm ,yarn), Building tools (Babel, Webpack, gulp, Browserify), Code (ESLint), JSDOC 
-
+    - Tools: CI (Jenkins, Travis CI), Package managers (npm ,yarn), Building tools (Babel, Webpack, gulp, Browserify), Code (ESLint), JSDOC.
+    - Testing: Jasmine, BDD, Selenium.   
 
 ### 01/06/2017 – Present @ [Hotech: Hotel Technology Ecosystem GmbH](https://www.hotech.com.tr/)
 ###### Antalya, Turkey
@@ -70,5 +69,5 @@
   - Computer applications
 - Occupational: Tourism business management, marketing, finance, economics, sociology of tourism in Andalusian, Spanish Tourist Regions
 
-[Get more detailed as PDF / Printable version](https://drive.google.com/file/d/1XBfeFQrG6ABF76Fck1VC9Zh4R5SM4HcH/view?usp=sharing)
+[Get more detailed version as PDF / Printable](https://drive.google.com/file/d/1KLRBzz2JP5flsrRLFgXnO3uGaH0LHYqV/view?usp=sharing)
 
