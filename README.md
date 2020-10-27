@@ -69,5 +69,5 @@
   - Computer applications
 - Occupational: Tourism business management, marketing, finance, economics, sociology of tourism in Andalusian, Spanish Tourist Regions
 
-[Get more detailed version as PDF / Printable](https://drive.google.com/file/d/1KLRBzz2JP5flsrRLFgXnO3uGaH0LHYqV/view?usp=sharing)
+[Get more detailed version as PDF / Printable](https://drive.google.com/file/d/1j0YtKc7vhQOv3TGJrLnKo75MD7gk5fK9/view?usp=sharing)
 
