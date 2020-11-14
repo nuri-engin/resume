@@ -1,5 +1,5 @@
 ## Personal Information
-> Please contact via e-mail for the interview requests. [Get more detailed version as PDF / Printable](https://drive.google.com/file/d/1j0YtKc7vhQOv3TGJrLnKo75MD7gk5fK9/view?usp=sharing)
+> Please contact via e-mail for the interview requests. [Get more detailed version as PDF / Printable](https://drive.google.com/file/d/1oI9EGMqbY8LUB-3FyCHHtgE5h6agNSYI/view?usp=sharing)
 >
 > [Resume](https://nuri-engin.github.io/resume/) / [LinkedIn](https://www.linkedin.com/in/nurullahengin/) / [GitHub](https://github.com/nuri-engin) / [Twitter](https://twitter.com/uzakkultur) / [Last.fm](https://www.last.fm/user/uzakkultur) / [Blog](http://uzakkultur.blogspot.com) / [Skype](nuridesengin) 
 
@@ -69,5 +69,5 @@
   - Computer applications
 - Occupational: Tourism business management, marketing, finance, economics, sociology of tourism in Andalusian, Spanish Tourist Regions
 
-[Get more detailed version as PDF / Printable](https://drive.google.com/file/d/1j0YtKc7vhQOv3TGJrLnKo75MD7gk5fK9/view?usp=sharing)
+[Get more detailed version as PDF / Printable](https://drive.google.com/file/d/1oI9EGMqbY8LUB-3FyCHHtgE5h6agNSYI/view?usp=sharing)
 
