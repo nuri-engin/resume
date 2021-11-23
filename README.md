@@ -8,7 +8,7 @@
 - Languages: Kurdish _(Mother tongue)_, Turkish _(fluent)_, English _(fluent)_
 
 ## Work Experience
-### 01/12/2014 – Present @ Backend Developer @ [Kiwi Mobility](https://www.linkedin.com/in/nuriengin/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3Bn6g2OG24Q%2FGXcdXyz10Q3g%3D%3D#)
+### 01/11/2020 – Present @ Backend Developer @ [Kiwi Mobility](https://www.linkedin.com/in/nuriengin/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3Bn6g2OG24Q%2FGXcdXyz10Q3g%3D%3D#)
 ###### Antalya, Turkey
 > Improving backend service and creating newly RESTful APIs/services within partly on microservice architecture. Generating the required documentation and diagrams. Managing database contents through needs and configuration on the DevOps side for the CI/CD process. 
 - **Tech skills/stack**:
