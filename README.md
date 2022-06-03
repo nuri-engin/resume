@@ -1,5 +1,5 @@
 ## Personal Information
-> Please contact via e-mail for the interview requests. [Get more detailed version as PDF / Printable](https://drive.google.com/file/d/1ZgXG-DvL9buhB5zP78GgP4F1Bstp1mpH/view?usp=sharing)
+> Please contact via e-mail for the interview requests. [Get more detailed version as PDF / Printable](https://drive.google.com/file/d/1qMsqZu7hgV2LptQMPea3gtpuZv_3kEmM/view?usp=sharing)
 >
 > [Resume](https://nuri-engin.github.io/resume/) / [LinkedIn](https://www.linkedin.com/in/nuriengin/) / [GitHub](https://github.com/nuri-engin) / [Twitter](https://twitter.com/uzakkultur) / [Last.fm](https://www.last.fm/user/uzakkultur) / [Blog](http://uzakkultur.blogspot.com) / [Skype](nuridesengin) 
 
@@ -8,7 +8,20 @@
 - Languages: Kurdish _(Mother tongue)_, Turkish _(fluent)_, English _(fluent)_
 
 ## Work Experience
-### 01/11/2020 – Present @ Backend Developer @ [Kiwi Mobility](https://www.linkedin.com/in/nuriengin/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3Bn6g2OG24Q%2FGXcdXyz10Q3g%3D%3D#)
+### 10/01/2022 – Present @ Backend Developer @ [finbyte GmbH](https://finbyte.com/)
+###### Antalya, Turkey
+> finbye is a FinTechs company that provides solutions for clients.
+Working with [finleap connect GmbH](https://connect.finleap.com/) as the client. Aim to provide open banking functionalities within the latest most demand technologies via the "Digibank" project.
+
+Being responsible as a back-end developer in the team and managing the NestJS and GraphQL-based structure on TypeScript which is powered by Github
+actions/checks/CI-CD process, and Amazon Web Services (AWS) for infrastructure. Back end structure moves to the microservice structure with Ap
+ollo Federation. Deploying the application to the serverless AWS Lambda services. All the provisioner process is being handled with IoC (Infrastructure as Code) approach via tools Terraform, Terragrunt.
+
+Working closely with Solarisbank AG to consume the required APIs. Using Auth0, Kibana, Mailjet as some of side-tech solutions.
+Managing the project life-cycle 2-week based sprints on Jira and benefiting on various Agile Scrum methodologies
+
+
+### 01/11/2020 – 01/01/2022 @ Backend Developer @ [Kiwi Mobility](https://ride.kiwi/)
 ###### Antalya, Turkey
 > Improving backend service and creating newly RESTful APIs/services within partly on microservice architecture. Generating the required documentation and diagrams. Managing database contents through needs and configuration on the DevOps side for the CI/CD process. 
 - **Tech skills/stack**:
